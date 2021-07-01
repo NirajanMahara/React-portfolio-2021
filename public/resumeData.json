@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name": "Nirajan Mahara",
+    "occupation": "Software Developer && Web Developer",
+    "description": "FullStack JavaScript Developer by Day, Founder && Freelancer by Night",
+    "image": "profile_picture.JPG",
+    "bio": "Hi there! I am Nirajan! You can also call me Ninja.JS. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Currently I'm working with small business and startups, especially in the E-Commerce sector. If your business is in need of a web presence or an online store, feel free to reach out and we can see what kind of value I can bring your business. Along the journey I realized my passion existed in helping others excel and pursue their dreams as upcoming developers. Following the passion, I have started my own YouTube channel for programmers, where i teach to build many live projects.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "mnirajan9@gmail.com",
+    "phone": "+977 9868519098",
+    "address": {
+      "street": "101 Dev. Street",
+      "city": "London",
+      "state": "Silicon Valley",
+      "zip": "W3B D3V"
+    },
+    "website": "http://www.nirajanmahara.com.np",
+    "resumedownload": "/Resume-Nirajan-Mahara-2021MAY.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nirajanmahara/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/NirajanWEB/",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nirajan.mahara.1/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ichuukuptown.wnm/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "\"Skill is the unified force of experience, intellect & passion in their operation.\"",
+    "education": [
+      {
+        "school": "University of Wolverhampton",
+        "degree": "BSc (Hons) Computer Science",
+        "graduated": "expected in 2022",
+        "description": "Graduated with first class"
+      }
+    ],
+    "work": [
+      {
+        "company": "Kasturi Ghar",
+        "title": "Digital Content Manager & Developer",
+        "years": "Oct 2020 - Dec 2020",
+        "description": "3 months Internship for Wordpress Web Design & Development"
+      },
+      {
+        "company": "Freelancing",
+        "title": "Fullstack Developer & Software Engineer",
+        "years": "Nov 2019 - Oct 2020",
+        "description": "Web Development, Full-Stack Developer, Wordpress Developer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "70%"
+      },
+      {
+        "name": "Git & Github",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS3",
+        "level": "80%"
+      },
+      {
+        "name": "C",
+        "level": "75%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.linkedin.com/in/nirajanmahara/"
+      },
+      {
+        "title": "Amazon Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.linkedin.com/in/nirajanmahara/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.linkedin.com/in/nirajanmahara/"
+      },
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.linkedin.com/in/nirajanmahara/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Talk is cheap, Show me the code.",
+        "user": "Linus Torvalds"
+      },
+      {
+        "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+        "user": "Bill Gates"
+      },
+      {
+        "text": "In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.",
+        "user": "Andrew Hunt"
+      }
+    ]
+  }
+}
